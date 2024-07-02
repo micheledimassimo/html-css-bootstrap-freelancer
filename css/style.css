@@ -1,0 +1,43 @@
+/*DEBUG*/
+
+.debug {
+    background-color: aqua;
+    
+}
+
+/*HEADER*/
+* {
+    text-align: center;
+}
+.header-top {
+    background-color: #2C3E50;
+    max-height: 70px;
+    color: white;
+}
+#menu-icon {
+    color: white;
+    padding: 0px 7px;
+    font-size: 2rem;
+    border: 1px solid white;
+}
+.header-top .container-lg .row .col-11 h3 {
+    padding: 10px 0;
+}
+.header-bottom {
+    background-color: #1ABC9C;
+    height: 500px;
+}
+.green-bg {
+    background-color: #1ABC9C;
+    height: 500px;
+}
+.footer-top {
+    background-color: #2C3E50;
+}
+.footer-bottom {
+    background-color: #2C3E50;
+}
+.footer-bottom p {
+    padding: 20px;
+    color: white;
+}
