@@ -47,6 +47,12 @@ img {
 .my-btn-green {
     background-color: #1ABC9C;
 }
+.my-btn-green:hover {
+    background-color: #1ABC9C;
+}
+.my-btn-green:active {
+    background-color: #1ABC9C;
+}
 .green {
     color: #1ABC9C;
 }
